@@ -6,7 +6,7 @@ Este proyecto es una aplicación web para sortear un amigo secreto. Permite agre
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/alejocort30/Amigo-secreto.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 
